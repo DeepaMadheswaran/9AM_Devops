@@ -1,6 +1,6 @@
 !/bin/bash
 
-#To check tomcat is installed or not
+#To check whether tomcat is installed or not
 
 apt list --installed | grep tomcat
 
