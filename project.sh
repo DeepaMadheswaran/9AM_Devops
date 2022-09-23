@@ -1,3 +1,3 @@
 #!/bin/bash
-name=devops
+name="devops"
 echo "hello $name deepa "
