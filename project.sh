@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "hello `git branch` deepa "
+name=devops
+echo "hello $name deepa "
